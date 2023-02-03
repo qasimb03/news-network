@@ -1,6 +1,5 @@
 import './App.css';
 import NewsList from './components/NewsList'
-import NavBar from './components/NavBar'
 import React from 'react';
 
 
