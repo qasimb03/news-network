@@ -1,0 +1,19 @@
+.News_Website
+{
+    display: flex;
+    justify-content: center;
+}
+
+.news_item
+{
+    width: 500px;
+    padding: 20px;
+    border: 2px solid;
+    border-radius: 25px;
+    margin-bottom: 25px;
+}
+
+.news_image
+{
+    width: 400px
+}
